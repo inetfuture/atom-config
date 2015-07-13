@@ -3,6 +3,25 @@
     userId: "bad5a8d5-fcec-63da-c941-5b66613288a1"
   welcome:
     showOnStartup: false
-  core: {}
+  core:
+    ignoredNames: [
+      "node_modules"
+      "bower_components"
+      ".tmp"
+      "dist"
+    ]
   editor:
     invisibles: {}
+    preferredLineLength: 119
+    scrollPastEnd: true
+    showIndentGuide: true
+    zoomFontWhenCtrlScrolling: true
+".ini.source":
+  editor:
+    preferredLineLength: 119
+".jade.source":
+  editor:
+    preferredLineLength: 119
+".pyjade.source":
+  editor:
+    preferredLineLength: 119
