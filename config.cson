@@ -16,12 +16,32 @@
     scrollPastEnd: true
     showIndentGuide: true
     zoomFontWhenCtrlScrolling: true
+    fontSize: 16
+  "markdown-preview": {}
+  wakatime:
+    ignore: [
+      "^/var/"
+      "^/tmp/"
+      "^/private/"
+      "COMMIT_EDITMSG$"
+      "PULLREQ_EDITMSG$"
+      "MERGE_MSG$"
+    ]
+    apikey: "b683b0e6-9517-408d-8514-4998cd12b4ee"
+  "sync-settings":
+    personalAccessToken: "856138031da652036dd71786f3aac9e9638167bc"
+    gistId: "7de20e7834a35ce23256"
+".gfm.source":
+  editor:
+    preferredLineLength: 119
+    softWrapAtPreferredLineLength: true
+    tabLength: 2
 ".ini.source":
   editor:
     preferredLineLength: 119
-".jade.source":
+".pyjade.source":
   editor:
     preferredLineLength: 119
-".pyjade.source":
+".jade.source":
   editor:
     preferredLineLength: 119

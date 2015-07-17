@@ -1,0 +1,7 @@
+main:
+  title: "main"
+  paths: [
+    "/Users/aaron/wp/technote"
+    "/Users/aaron/wp/server"
+    "/Users/aaron/wp/omnisocials-admin"
+  ]
