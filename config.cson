@@ -28,17 +28,17 @@
       "MERGE_MSG$"
     ]
     apikey: "b683b0e6-9517-408d-8514-4998cd12b4ee"
-".gfm.source":
-  editor:
-    preferredLineLength: 119
-    softWrapAtPreferredLineLength: true
-    tabLength: 2
-".ini.source":
+".jade.source":
   editor:
     preferredLineLength: 119
 ".pyjade.source":
   editor:
     preferredLineLength: 119
-".jade.source":
+".ini.source":
   editor:
     preferredLineLength: 119
+".gfm.source":
+  editor:
+    preferredLineLength: 119
+    softWrapAtPreferredLineLength: true
+    tabLength: 2
