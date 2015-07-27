@@ -5,6 +5,7 @@ packages: [
   "language-jade"
   "merge-conflicts"
   "minimap"
+  "package-list"
   "package-sync"
   "pigments"
   "project-manager"
@@ -14,6 +15,5 @@ packages: [
   "sublime-default-syntax"
   "Sublime-Style-Column-Selection"
   "synced-sidebar"
-  "tidy-markdown"
   "wakatime"
 ]
