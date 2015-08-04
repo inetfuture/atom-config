@@ -30,13 +30,16 @@
     apikey: "b683b0e6-9517-408d-8514-4998cd12b4ee"
   minimap:
     absoluteMode: true
-".jade.source":
+  "spell-check":
+    grammars: [
+      "*"
+    ]
+  "highlight-column": {}
+  "highlight-selected": {}
+".litcoffee.source":
   editor:
     preferredLineLength: 119
-".pyjade.source":
-  editor:
-    preferredLineLength: 119
-".ini.source":
+".coffee.source":
   editor:
     preferredLineLength: 119
 ".gfm.source":
@@ -44,3 +47,12 @@
     preferredLineLength: 119
     softWrapAtPreferredLineLength: true
     tabLength: 2
+".ini.source":
+  editor:
+    preferredLineLength: 119
+".pyjade.source":
+  editor:
+    preferredLineLength: 119
+".jade.source":
+  editor:
+    preferredLineLength: 119
